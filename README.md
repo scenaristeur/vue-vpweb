@@ -1,4 +1,7 @@
 # vue-vpweb
+another ui for
+https://github.com/vpdb/vpx-js
+
 
 ## Project setup
 ```
